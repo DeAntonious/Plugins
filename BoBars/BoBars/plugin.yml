@@ -1,0 +1,9 @@
+name: BoBars
+main: es.powdergamers.BoBars.BoBars
+version: 1
+commands:
+   vermana:
+      description: This is a demo command.
+      usage: /<command> 
+      permission: BoBars.*
+      permission-message: You don't have BoBars.*

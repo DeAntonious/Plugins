@@ -1,0 +1,12 @@
+name: BoRunes
+version: 1.1
+description: Plugin de uso de Runas de BoDarkness.
+author: DeAntonious
+main: es.powdergamers.borunes.BoRunes
+commands:
+  setrune:
+    description: Manda un Mensaje desde la Config.
+    permission: borunes.*
+  showrune:
+    description: Manda un Mensaje desde la Config.
+    permission: borunes.*    

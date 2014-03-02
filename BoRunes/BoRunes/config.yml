@@ -1,0 +1,16 @@
+# Mensaje de guardado
+save-message: Se ha guardado la runa con el nombre
+# Mensaje de error:
+error-message: Debes introducir el nombre de la runa
+
+# Lista de Runas:
+rune-list:
+    - Test
+# Ejemplo de uso:
+#
+# NOMBRE:
+#   world: MUNDO
+#   location:
+#     posX: X
+#     posY: Y
+#     posZ: Z

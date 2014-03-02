@@ -1,0 +1,20 @@
+name: BoDrinks
+main: es.powdergamers.BoDrinks.BoDrinks
+version: 1.0
+description: Plugin de bebidas de PowderGamers
+commands:
+   aguamiel:
+      description: Distribuye aguamiel, una bebida alcoholica refrescante.
+      usage: /<command>
+      permission: bebida.aguamiel
+      permission-message: No puedo beber esto...
+   cerveza:
+      description: Distribuye cerveza, una bebida alcoholica fortificante.
+      usage: /<command>
+      permission: bebida.cerveza
+      permission-message: No puedo beber esto...      
+   grabebida:
+      description: Distribuye tu gravedad, aumenta tu salto.
+      usage: /<command>
+      permission: bebida.grabebida
+      permission-message: No puedo beber esto...        
