@@ -1,0 +1,29 @@
+package es.powdergamers.boitems;
+
+import java.util.ArrayList;
+
+import org.bukkit.ChatColor;
+import org.bukkit.Material;
+import org.bukkit.inventory.ItemStack;
+import org.bukkit.inventory.meta.ItemMeta;
+
+public class ItemList {
+	
+	public static void addItems() {
+  	  
+		ItemStack zombieBone = new ItemStack(Material.BONE, 1);  	  
+		ItemMeta zombieBoneMeta = zombieBone.getItemMeta();  	  
+		
+		zombieBoneMeta.setDisplayName(ChatColor.BOLD + "Hueso de Zombie");  	  
+		
+		ArrayList<String> lore = new ArrayList<String>();
+		lore.add(" "); 	  
+		lore.add(ChatColor.RESET + "Si, los Zombies tienen"); 	  
+		lore.add(ChatColor.RESET + "huesos...");  
+		
+		zombieBoneMeta.setLore(lore);  
+		zombieBone.setItemMeta(zombieBoneMeta);
+		
+	}
+
+}

@@ -1,6 +1,9 @@
 package es.powdergamers.borunes;
  
 import java.util.ArrayList;
+
+import me.blackvein.quests.Quests;
+
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.World;
@@ -79,8 +82,7 @@ public final class BoRunes extends JavaPlugin {
     	
     	Location punto = new Location(player.getWorld(), 1, 1, 1);
     	
-    	if(player.getLocation() > punto){
-    	player.sendMessage("You are at the location.");
+    	Quests.
     	}
     }
     

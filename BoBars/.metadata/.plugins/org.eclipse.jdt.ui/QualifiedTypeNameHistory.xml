@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.nisovin.magicspells.mana.ManaBar"/>
+<fullyQualifiedTypeName name="me.confuser.barapi.mcstats.MetricsLite"/>
+<fullyQualifiedTypeName name="me.confuser.barapi.BarAPI"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+<fullyQualifiedTypeName name="org.bukkit.command.CommandSender"/>
+<fullyQualifiedTypeName name="org.bukkit.command.Command"/>
+<fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+<fullyQualifiedTypeName name="com.nisovin.magicspells.MagicSpells"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.PlayerDeathEvent"/>
+<fullyQualifiedTypeName name="net.milkbowl.vault.Vault"/>
+<fullyQualifiedTypeName name="net.milkbowl.vault.Vault.VaultListener"/>
+<fullyQualifiedTypeName name="com.earth2me.essentials.Essentials"/>
+<fullyQualifiedTypeName name="org.bukkit.command.defaults.BukkitCommand"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.EntityDeathEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.ExpBottleEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.Sound"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.EntityType"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.meta.ItemMeta"/>
+<fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+<fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+</qualifiedTypeNameHistroy>

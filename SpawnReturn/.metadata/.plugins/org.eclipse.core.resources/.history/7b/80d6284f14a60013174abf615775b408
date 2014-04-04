@@ -1,0 +1,48 @@
+package es.deantonious.spawnreturn;
+ 
+import org.bukkit.Location;
+import org.bukkit.World;
+import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
+import org.bukkit.event.Listener;
+import org.bukkit.event.player.PlayerLoginEvent;
+import org.bukkit.event.player.PlayerMoveEvent;
+import org.bukkit.plugin.java.JavaPlugin;
+ 
+public final class SpawnReturn extends JavaPlugin implements Listener {
+	
+	Location posRune;
+	World returnWorld;
+	int limitY;
+
+    @Override
+    public void onEnable() {
+        this.saveDefaultConfig();
+        
+        
+        //runeWorld = this.getServer().getWorld(getConfig().getString(runeName + ".world"));
+        
+    }
+    
+    @EventHandler(priority = EventPriority.HIGHEST)
+    public void onPlayerMoveEvent(PlayerMoveEvent event){
+    	Player player = event.getPlayer();
+    	
+    	Location loc = player.getPlayer().getLocation();
+    	if(loc.getBlockY() >= 0) {
+    		player.sendMessage("Holaps");
+    		
+    	}
+    	
+    }
+    
+    @EventHandler
+    public void onLogin(PlayerLoginEvent event) {
+    	Player player = event.getPlayer();
+    	
+    	player.sendMessage("Bienvenido FEO!");
+    }
+    
+
+}

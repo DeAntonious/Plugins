@@ -1,0 +1,139 @@
+!SESSION 2014-03-08 16:43:16.050 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-08 16:43:32.999
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+
+!ENTRY org.eclipse.scout.sdk.ui 1 0 2014-03-08 16:43:45.637
+!MESSAGE org.eclipse.scout.sdk.ui.internal.view.outline.pages.ProjectsTablePage.loadChildrenImpl(ProjectsTablePage.java:76)
+	INVISIBLE ROOT NODE: found 0 root projects.
+!SESSION 2014-03-08 21:02:07.453 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-08 21:02:43.037
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-09 18:15:55.155 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-09 18:16:07.315
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-10 20:44:53.096 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-10 20:46:06.723
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-11 18:38:43.529 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-11 18:38:51.051
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-11 21:08:46.745 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-03-11 21:08:51.859
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-11 21:08:54.296
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-12 19:04:43.653 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-12 19:05:27.048
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-12 19:38:36.767 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-12 19:38:44.524
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-12 21:53:16.907 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-12 21:53:23.337
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-14 16:39:44.570 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-14 16:40:00.764
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-14 20:12:43.951 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-14 20:12:52.959
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.
+!SESSION 2014-03-15 00:39:01.015 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.scout.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.scout.product
+
+!ENTRY org.eclipse.scout.sdk 1 0 2014-03-15 00:39:27.515
+!MESSAGE org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	Starting SCOUT SDK Plugin.

@@ -1,0 +1,9 @@
+package es.powdergamers.boitems;
+
+public class Items {
+	
+	public void addItems() {
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.potion.Potion"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.meta.PotionMeta"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.PotionEffect"/>
+<fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.PotionEffectType"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.PlayerInventory"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+<fullyQualifiedTypeName name="org.bukkit.command.CommandSender"/>
+<fullyQualifiedTypeName name="org.bukkit.command.Command"/>
+<fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerItemConsumeEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.Material"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.ShapedRecipe"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.ShapelessRecipe"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.bukkit.material.MaterialData"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.PotionType"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.ItemStack"/>
+</qualifiedTypeNameHistroy>
